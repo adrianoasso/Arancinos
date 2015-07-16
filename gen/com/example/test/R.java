@@ -993,7 +993,7 @@ containing a value of this type.
         public static final int action_mode_bar=0x7f09002f;
         public static final int action_mode_bar_stub=0x7f09002e;
         public static final int action_mode_close_button=0x7f090022;
-        public static final int action_settings=0x7f090049;
+        public static final int action_settings=0x7f09004a;
         public static final int activity_chooser_view_content=0x7f090023;
         public static final int always=0x7f09000d;
         public static final int beginning=0x7f090014;
@@ -1020,6 +1020,7 @@ containing a value of this type.
         public static final int never=0x7f090010;
         public static final int none=0x7f090017;
         public static final int normal=0x7f090005;
+        public static final int ok=0x7f090049;
         public static final int password=0x7f090046;
         public static final int passwordText=0x7f090047;
         public static final int progress_circular=0x7f090034;
@@ -1107,11 +1108,13 @@ containing a value of this type.
         public static final int abc_search_view=0x7f030017;
         public static final int activity_index=0x7f030018;
         public static final int activity_main=0x7f030019;
-        public static final int support_simple_spinner_dropdown_item=0x7f03001a;
+        public static final int activity_message=0x7f03001a;
+        public static final int support_simple_spinner_dropdown_item=0x7f03001b;
     }
     public static final class menu {
         public static final int index=0x7f0c0000;
         public static final int main=0x7f0c0001;
+        public static final int message=0x7f0c0002;
     }
     public static final class string {
         /**  Content description for the action bar "home" affordance. [CHAR LIMIT=NONE] 
@@ -1158,10 +1161,13 @@ containing a value of this type.
         public static final int app_name=0x7f0a000d;
         public static final int hello_world=0x7f0a000e;
         public static final int login=0x7f0a0012;
+        public static final int ok=0x7f0a0017;
         public static final int password=0x7f0a0011;
-        public static final int title_activity_index=0x7f0a0014;
+        public static final int title_activity_index=0x7f0a0015;
+        public static final int title_activity_message=0x7f0a0016;
         public static final int username=0x7f0a0010;
         public static final int welcome=0x7f0a0013;
+        public static final int welcome2=0x7f0a0014;
     }
     public static final class style {
         /** 
