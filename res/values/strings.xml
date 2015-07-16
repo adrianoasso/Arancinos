@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Arancino\'s</string>
+    <string name="hello_world">Benvenuto nell\'App ufficiale dell\'Arancino\'s Party!</string>
+    <string name="action_settings">Settings</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    
+    <string name="welcome">Benvenuto</string>
+    <string name="title_activity_index">IndexActivity</string>
+
+</resources>
